@@ -8,4 +8,4 @@ Métrica / Costo:** Costo unitario = $1 por tramo entre estaciones contiguas.
 
 - Requisitos
 * Python 3.x
-* Jupyter Notebook (`ipykernel`)
+* Jupyter Notebook 
